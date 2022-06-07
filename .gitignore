@@ -1,0 +1,5 @@
+gen/
+build/
+*.bak
+.env
+*.env
